@@ -2,3 +2,4 @@
 
 - FizzBuzz
 - Harmless Ransom Note
+- Palindrome
