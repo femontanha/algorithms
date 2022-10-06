@@ -6,3 +6,4 @@
 - Caeasar Cipher
 - Reverse Words
 - Reverse Array In Place
+- Mean Median Mode
